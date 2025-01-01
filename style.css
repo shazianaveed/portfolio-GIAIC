@@ -1,0 +1,33 @@
+.nav{
+ align-items: center;
+
+}
+.name{
+    text-decoration: underline;
+    color: yellow;
+   
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+
+}
+.intro1{
+    color: aliceblue;
+    background-image: url(https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+    );
+}
+.intro{
+    display: flex;
+    justify-content: center;
+}
+.port>img{
+    height: 50px;
+    width: 50px;
+    
+}
+.intro2{
+    display: flex;
+    justify-content: space-evenly;
+}
